@@ -2,7 +2,7 @@
 
 ## Description
 
-This app displays a list of books with cover images, titles, descriptions, and author details, all parsed from JSON data.
+This app displays a list of books with cover images, titles, description, and author details, all parsed from JSON data.
 
 ## Demo
 
